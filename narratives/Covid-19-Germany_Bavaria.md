@@ -9,7 +9,7 @@ affiliations: "Helmholtz Zentrum München, TU München"
 
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "http://localhost:4000/ncov/bavaria?d=tree&c=clade_membership"
+dataset: "http://nextstrain.org/community/under-score/Covid-19-Germany/Bavaria?d=tree"
 
 abstract: "Germany started sequencing of SARS-CoV2 only recently, following various requests for example by http://g-f-v.org/node/1404 responding now with a government regulation in January 2021  Coronavirus-Surveillanceverordnung (CorSurV)"
 ---
